@@ -3,11 +3,9 @@ Link => https://meta4every1.vercel.app/
 
 
 # Cite us
-Omar F Abbas. (2026). omarfayezabbas/Meta4Every-1:V1 (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.18928878
+Omar Fayez Abbas. (2026). omarfayezabbas/Meta4Every-1: V1 (0.1.0). Zenodo. https://doi.org/10.5281/zenodo.18928878
         
-        
-        
-        
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928878.svg)](https://doi.org/10.5281/zenodo.18928878)
 
 
 
@@ -42,24 +40,3 @@ Meta-Analysis Statistical Calculations
 - **Wan et al. (2014)**: Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range.
 - **Luo et al. (2018)**: Optimizing the estimator of the sample mean from the sample size, median, and range.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928878.svg
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        )](https://doi.org/10.5281/zenodo.18928878
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        )
