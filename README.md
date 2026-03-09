@@ -1,16 +1,28 @@
 # Meta4Every1
 
-# Link => 
+# Link
 https://meta4every1.vercel.app/
 
 
 
 # Cite us
 Omar F Abbas, Meta4Every1: A Web-Based Platform for Meta-Analysis Statistical Calculations (2026). https://doi.org/10.5281/zenodo.18928878
+        
+        
+        
+        
 
 
         
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928878.svg)](https://doi.org/10.5281/zenodo.18928878)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18928878.svg
+        
+        
+        
+        )](https://doi.org/10.5281/zenodo.18928878
+        
+        
+        
+        )
 
 
 Meta-Analysis Statistical Calculations
